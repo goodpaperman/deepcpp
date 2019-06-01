@@ -1,0 +1,34 @@
+//本日志文件由 "Tabbar Add-in(1.16.2517) For Visual C++ 6.0" 创建
+//项目文件:E:\codes\vc\mfc\sunxin\deep in C++\chapter14\TCPSrv\TCPSrv.dsp
+//如果文件增长的很大请删除除本节之外的其他信息
+
+[MAIN]
+nBuildNumber = 4
+
+[Build00000001]
+sStartTime = 2010-03-21 15:01:51
+sCompileUser = Administrator
+nErrors = 3
+nWarns = 0
+sEndTime = 2010-03-21 15:01:52
+
+[Build00000002]
+sStartTime = 2010-03-21 15:02:05
+sCompileUser = Administrator
+nErrors = 2
+nWarns = 0
+sEndTime = 2010-03-21 15:02:05
+
+[Build00000003]
+sStartTime = 2010-03-21 15:02:11
+sCompileUser = Administrator
+nErrors = 13
+nWarns = 0
+sEndTime = 2010-03-21 15:02:13
+
+[Build00000004]
+sStartTime = 2010-03-21 15:04:30
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-21 15:04:31

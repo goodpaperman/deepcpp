@@ -1,0 +1,75 @@
+// Clock.odl : type library source for ActiveX Control project.
+
+// This file will be processed by the Make Type Library (mktyplib) tool to
+// produce the type library (Clock.tlb) that will become a resource in
+// Clock.ocx.
+
+#include <olectl.h>
+#include <idispids.h>
+
+[ uuid(46257CB5-DC33-47D7-AD7D-7867AFABAB98), version(1.0),
+  helpfile("Clock.hlp"),
+  helpstring("Clock ActiveX Control module"),
+  control ]
+library CLOCKLib
+{
+	importlib(STDOLE_TLB);
+	importlib(STDTYPE_TLB);
+
+	//  Primary dispatch interface for CClockCtrl
+
+	[ uuid(3E23EBEB-0A72-441C-A50F-528ED90B5C03),
+	  helpstring("Dispatch interface for Clock Control"), hidden ]
+	dispinterface _DClock
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(CClockCtrl)
+			[id(DISPID_BACKCOLOR), bindable, requestedit] OLE_COLOR BackColor;
+			[id(DISPID_FORECOLOR), bindable, requestedit] OLE_COLOR ForeColor;
+			[id(1)] short Interval;
+			//}}AFX_ODL_PROP
+
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(CClockCtrl)
+			[id(2)] void Hello();
+			//}}AFX_ODL_METHOD
+
+			[id(DISPID_ABOUTBOX)] void AboutBox();
+	};
+
+	//  Event dispatch interface for CClockCtrl
+
+	[ uuid(0ED3C143-8580-4385-BD14-B4E3E431122E),
+	  helpstring("Event interface for Clock Control") ]
+	dispinterface _DClockEvents
+	{
+		properties:
+			//  Event interface has no properties
+
+		methods:
+			// NOTE - ClassWizard will maintain event information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_EVENT(CClockCtrl)
+			[id(DISPID_CLICK)] void Click();
+			[id(1)] void NewMinute();
+			//}}AFX_ODL_EVENT
+	};
+
+	//  Class information for CClockCtrl
+
+	[ uuid(762D73CA-00B8-4F74-8901-A604DCD35FBE),
+	  helpstring("Clock Control"), control ]
+	coclass Clock
+	{
+		[default] dispinterface _DClock;
+		[default, source] dispinterface _DClockEvents;
+	};
+
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};

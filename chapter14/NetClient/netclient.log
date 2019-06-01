@@ -1,0 +1,41 @@
+//本日志文件由 "Tabbar Add-in(1.16.2517) For Visual C++ 6.0" 创建
+//项目文件:E:\codes\vc\mfc\sunxin\deep in C++\chapter14\NetClient\NetClient.dsp
+//如果文件增长的很大请删除除本节之外的其他信息
+
+[MAIN]
+nBuildNumber = 5
+
+[Build00000001]
+sStartTime = 2010-03-21 16:43:34
+sCompileUser = Administrator
+nErrors = 3
+nWarns = 0
+sEndTime = 2010-03-21 16:43:35
+
+[Build00000002]
+sStartTime = 2010-03-21 16:44:13
+sCompileUser = Administrator
+nErrors = 4
+nWarns = 0
+sEndTime = 2010-03-21 16:44:13
+
+[Build00000003]
+sStartTime = 2010-03-21 16:44:30
+sCompileUser = Administrator
+nErrors = 3
+nWarns = 0
+sEndTime = 2010-03-21 16:44:30
+
+[Build00000004]
+sStartTime = 2010-03-21 16:44:38
+sCompileUser = Administrator
+nErrors = 2
+nWarns = 0
+sEndTime = 2010-03-21 16:44:38
+
+[Build00000005]
+sStartTime = 2010-03-21 16:44:46
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-21 16:44:46

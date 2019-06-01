@@ -1,0 +1,34 @@
+//本日志文件由 "Tabbar Add-in(1.16.2517) For Visual C++ 6.0" 创建
+//项目文件:E:\codes\vc\mfc\sunxin\deep in C++\chapter14\TcpClient\TcpClient.dsp
+//如果文件增长的很大请删除除本节之外的其他信息
+
+[MAIN]
+nBuildNumber = 4
+
+[Build00000001]
+sStartTime = 2010-03-21 15:16:20
+sCompileUser = Administrator
+nErrors = 1
+nWarns = 0
+sEndTime = 2010-03-21 15:16:21
+
+[Build00000002]
+sStartTime = 2010-03-21 15:16:41
+sCompileUser = Administrator
+nErrors = 10
+nWarns = 0
+sEndTime = 2010-03-21 15:16:41
+
+[Build00000003]
+sStartTime = 2010-03-21 15:17:07
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-21 15:17:07
+
+[Build00000004]
+sStartTime = 2010-03-21 15:29:14
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-21 15:29:14

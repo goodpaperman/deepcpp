@@ -1,0 +1,272 @@
+//本日志文件由 "Tabbar Add-in(1.16.2517) For Visual C++ 6.0" 创建
+//项目文件:E:\codes\vc\mfc\sunxin\deep in C++\chapter5\Text\Text.dsp
+//如果文件增长的很大请删除除本节之外的其他信息
+
+[MAIN]
+nBuildNumber = 38
+
+[Build00000001]
+sStartTime = 2010-03-13 17:49:23
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 17:49:24
+
+[Build00000002]
+sStartTime = 2010-03-13 17:49:48
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 17:49:49
+
+[Build00000003]
+sStartTime = 2010-03-13 17:50:09
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 17:50:09
+
+[Build00000004]
+sStartTime = 2010-03-13 17:50:35
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 17:50:35
+
+[Build00000005]
+sStartTime = 2010-03-13 17:50:51
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 17:50:51
+
+[Build00000006]
+sStartTime = 2010-03-13 17:51:12
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 17:51:12
+
+[Build00000007]
+sStartTime = 2010-03-13 17:51:24
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 17:51:24
+
+[Build00000008]
+sStartTime = 2010-03-13 17:51:38
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 17:51:38
+
+[Build00000009]
+sStartTime = 2010-03-13 19:05:23
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 19:05:24
+
+[Build00000010]
+sStartTime = 2010-03-13 19:05:39
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 19:05:39
+
+[Build00000011]
+sStartTime = 2010-03-13 19:06:38
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 19:06:38
+
+[Build00000012]
+sStartTime = 2010-03-13 19:10:06
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 19:10:06
+
+[Build00000013]
+sStartTime = 2010-03-13 19:10:27
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 19:10:27
+
+[Build00000014]
+sStartTime = 2010-03-13 19:10:40
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 19:10:41
+
+[Build00000015]
+sStartTime = 2010-03-13 19:14:14
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 19:14:14
+
+[Build00000016]
+sStartTime = 2010-03-13 19:17:24
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 19:17:24
+
+[Build00000017]
+sStartTime = 2010-03-13 20:22:12
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 20:22:12
+
+[Build00000018]
+sStartTime = 2010-03-13 20:23:11
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 20:23:11
+
+[Build00000019]
+sStartTime = 2010-03-13 20:26:36
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 20:26:36
+
+[Build00000020]
+sStartTime = 2010-03-13 20:27:05
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 20:27:05
+
+[Build00000021]
+sStartTime = 2010-03-13 20:28:23
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 20:28:23
+
+[Build00000022]
+sStartTime = 2010-03-13 21:17:06
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-13 21:17:06
+
+[Build00000023]
+sStartTime = 2010-03-14 10:35:40
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-14 10:35:43
+
+[Build00000024]
+sStartTime = 2010-03-14 10:36:22
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-14 10:36:22
+
+[Build00000025]
+sStartTime = 2010-03-14 10:39:39
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-14 10:39:40
+
+[Build00000026]
+sStartTime = 2010-03-14 10:40:57
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-14 10:40:57
+
+[Build00000027]
+sStartTime = 2010-03-14 10:53:37
+sCompileUser = Administrator
+nErrors = 1
+nWarns = 0
+sEndTime = 2010-03-14 10:53:38
+
+[Build00000028]
+sStartTime = 2010-03-14 10:54:13
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-14 10:54:13
+
+[Build00000029]
+sStartTime = 2010-03-14 10:56:44
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-14 10:56:45
+
+[Build00000030]
+sStartTime = 2010-03-14 10:57:47
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-14 10:57:47
+
+[Build00000031]
+sStartTime = 2010-03-14 12:09:31
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-14 12:09:31
+
+[Build00000032]
+sStartTime = 2010-03-14 12:11:57
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-14 12:11:57
+
+[Build00000033]
+sStartTime = 2010-03-14 12:53:24
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-14 12:53:24
+
+[Build00000034]
+sStartTime = 2010-03-14 12:54:12
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-14 12:54:13
+
+[Build00000035]
+sStartTime = 2010-03-14 12:54:53
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-14 12:54:53
+
+[Build00000036]
+sStartTime = 2010-03-14 14:10:34
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-14 14:10:34
+
+[Build00000037]
+sStartTime = 2010-03-14 14:12:29
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-14 14:12:30
+
+[Build00000038]
+sStartTime = 2010-03-14 14:13:12
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-14 14:13:12

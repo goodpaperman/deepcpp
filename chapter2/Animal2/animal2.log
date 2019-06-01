@@ -1,0 +1,34 @@
+//本日志文件由 "Tabbar Add-in(1.16.2517) For Visual C++ 6.0" 创建
+//项目文件:E:\CODES\VC\MFC\SUNXIN\DEEP IN C++\CHAPTER2\Animal2\Animal2.dsp
+//如果文件增长的很大请删除除本节之外的其他信息
+
+[MAIN]
+nBuildNumber = 4
+
+[Build00000001]
+sStartTime = 2010-03-07 19:21:49
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-07 19:21:49
+
+[Build00000002]
+sStartTime = 2010-03-07 19:22:30
+sCompileUser = Administrator
+nErrors = 1
+nWarns = 0
+sEndTime = 2010-03-07 19:22:31
+
+[Build00000003]
+sStartTime = 2010-03-07 19:22:47
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-07 19:22:47
+
+[Build00000004]
+sStartTime = 2010-03-07 19:23:00
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-07 19:23:00
